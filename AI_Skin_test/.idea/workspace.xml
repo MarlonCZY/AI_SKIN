@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24942c43-3d06-4abc-b0f8-019120a80835" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AI_Skin_test$Mysql_tool.coverage" NAME="Mysql_tool Coverage Results" MODIFIED="1518306639934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$testbash.coverage" NAME="testbash Coverage Results" MODIFIED="1518905019153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ML_Study/Practice/testBash" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$create_Database.coverage" NAME="create_Database Coverage Results" MODIFIED="1518306516383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$Login.coverage" NAME="Login Coverage Results" MODIFIED="1518376643258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$testModule.coverage" NAME="testModule Coverage Results" MODIFIED="1518909423167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN_utils" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$Records_Table.coverage" NAME="Records_Table Coverage Results" MODIFIED="1519083822337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/AI_Skin_test$flask_server.coverage" NAME="flask_server Coverage Results" MODIFIED="1519754743560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="Green" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RunCNN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN_utils/RunCNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Requests/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testModule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN_utils/testModule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testbash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Records_Table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Database/Records_Table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <marker date="1519083816849" expanded="true" signature="302:330" ph="DROP TABLE I... " />
+                <marker date="1519083816849" expanded="true" signature="363:718" ph="CREATE TABLE... records" />
+                <marker date="1519083816849" expanded="true" signature="866:950" ph="INSERT INTO records... " />
+                <marker date="1519083816849" expanded="true" signature="866:958" ph="INSERT INTO records... " />
+                <marker date="1519083816849" expanded="true" signature="866:999" ph="INSERT INTO records... " />
+                <marker date="1519083816849" expanded="true" signature="866:1074" ph="INSERT INTO records... " />
+                <marker date="1519083816849" expanded="true" signature="866:1142" ph="INSERT INTO records... " />
+                <marker date="1519083816849" expanded="true" signature="1298:1367" ph="SELECT user_... records" />
+                <marker date="1519083816849" expanded="true" signature="1390:1404" ph="SELECT * FRO... R" />
+                <marker date="1519083816849" expanded="true" signature="1390:1430" ph="SELECT * FRO... records" />
+                <marker date="1519083816849" expanded="true" signature="1390:1435" ph="SELECT * FRO... records" />
+                <marker date="1519083816849" expanded="true" signature="1390:1451" ph="SELECT * FRO... records" />
+                <marker date="1519083816849" expanded="true" signature="1669:1737" ph="SELECT * FRO... records" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_Table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Database/User_Table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <marker date="1518651431811" expanded="true" signature="346:376" ph="DROP TABLE I... " />
+                <marker date="1518651431811" expanded="true" signature="409:611" ph="CREATE TABLE... user_form" />
+                <marker date="1518651431811" expanded="true" signature="759:884" ph="INSERT INTO user_form... " />
+                <marker date="1518651431811" expanded="true" signature="1038:1110" ph="SELECT passw... user_form" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+      <find>image</find>
+      <find>Upload</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Database/create_Database.py" />
+        <option value="$PROJECT_DIR$/Requests/Login.py" />
+        <option value="$PROJECT_DIR$/Database/Mysql_tool.py" />
+        <option value="$PROJECT_DIR$/design_doc.md" />
+        <option value="$PROJECT_DIR$/Database/Recode_Table.py" />
+        <option value="$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py" />
+        <option value="$PROJECT_DIR$/CNN_utils/ResizeImage.py" />
+        <option value="$PROJECT_DIR$/CNN_utils/testModule.py" />
+        <option value="$PROJECT_DIR$/CNN_utils/RunCNN.py" />
+        <option value="$PROJECT_DIR$/Database/User_Table.py" />
+        <option value="$PROJECT_DIR$/flask_server.py" />
+        <option value="$PROJECT_DIR$/Database/Records_Table.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AI_Skin_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Skin_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_Skin_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Skin_test" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN_utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_Skin_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Skin_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_Skin_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Skin_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_Skin_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Skin_test" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/Database" />
+      <recent name="$PROJECT_DIR$/Requests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.flask_server">
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_Skin_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Requests/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Records_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_Skin_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database/Records_Table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="flask_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_Skin_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="testModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_Skin_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN_utils/testModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="testbash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ML_Study/Practice/testBash" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_Skin_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.flask_server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Login" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Records_Table" />
+      <item index="3" class="java.lang.String" itemvalue="Python.testbash" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testModule" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.flask_server" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Records_Table" />
+        <item index="2" class="java.lang.String" itemvalue="Python.testModule" />
+        <item index="3" class="java.lang.String" itemvalue="Python.testbash" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24942c43-3d06-4abc-b0f8-019120a80835" name="Default" comment="" />
+      <created>1518294685476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518294685476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17152777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CNN_utils/RunCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/User_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <marker date="1518651431811" expanded="true" signature="346:376" ph="DROP TABLE I... " />
+            <marker date="1518651431811" expanded="true" signature="409:611" ph="CREATE TABLE... user_form" />
+            <marker date="1518651431811" expanded="true" signature="759:884" ph="INSERT INTO user_form... " />
+            <marker date="1518651431811" expanded="true" signature="1038:1110" ph="SELECT passw... user_form" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/Records_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1519083816849" expanded="true" signature="302:330" ph="DROP TABLE I... " />
+            <marker date="1519083816849" expanded="true" signature="363:718" ph="CREATE TABLE... records" />
+            <marker date="1519083816849" expanded="true" signature="866:950" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:958" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:999" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1074" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1142" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="1298:1367" ph="SELECT user_... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1404" ph="SELECT * FRO... R" />
+            <marker date="1519083816849" expanded="true" signature="1390:1430" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1435" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1451" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1669:1737" ph="SELECT * FRO... records" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/RunCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/testModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/User_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <marker date="1518651431811" expanded="true" signature="346:376" ph="DROP TABLE I... " />
+            <marker date="1518651431811" expanded="true" signature="409:611" ph="CREATE TABLE... user_form" />
+            <marker date="1518651431811" expanded="true" signature="759:884" ph="INSERT INTO user_form... " />
+            <marker date="1518651431811" expanded="true" signature="1038:1110" ph="SELECT passw... user_form" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/Records_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1519083816849" expanded="true" signature="302:330" ph="DROP TABLE I... " />
+            <marker date="1519083816849" expanded="true" signature="363:718" ph="CREATE TABLE... records" />
+            <marker date="1519083816849" expanded="true" signature="866:950" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:958" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:999" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1074" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1142" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="1298:1367" ph="SELECT user_... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1404" ph="SELECT * FRO... R" />
+            <marker date="1519083816849" expanded="true" signature="1390:1430" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1435" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1451" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1669:1737" ph="SELECT * FRO... records" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/CNN_utils/ResizeImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/RunCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/testModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/Records_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <marker date="1519083816849" expanded="true" signature="302:330" ph="DROP TABLE I... " />
+            <marker date="1519083816849" expanded="true" signature="363:718" ph="CREATE TABLE... records" />
+            <marker date="1519083816849" expanded="true" signature="866:950" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:958" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:999" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1074" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1142" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="1298:1367" ph="SELECT user_... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1404" ph="SELECT * FRO... R" />
+            <marker date="1519083816849" expanded="true" signature="1390:1430" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1435" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1451" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1669:1737" ph="SELECT * FRO... records" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/User_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1518651431811" expanded="true" signature="346:376" ph="DROP TABLE I... " />
+            <marker date="1518651431811" expanded="true" signature="409:611" ph="CREATE TABLE... user_form" />
+            <marker date="1518651431811" expanded="true" signature="759:884" ph="INSERT INTO user_form... " />
+            <marker date="1518651431811" expanded="true" signature="1038:1110" ph="SELECT passw... user_form" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Database/Mysql_tool.py" />
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Database/Mysql_tool.py" />
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/Database/Mysql_tool.py" />
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/create_Database.py" />
+    <entry file="file:///Library/Python/2.7/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1337">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uploads/example.jpg" />
+    <entry file="file://$PROJECT_DIR$/Database/Mysql_tool.py" />
+    <entry file="file://$PROJECT_DIR$/Database/User_Tabl.py" />
+    <entry file="file://$PROJECT_DIR$/Database/Recode_Table.py" />
+    <entry file="file://$PROJECT_DIR$/design_doc.md" />
+    <entry file="file://$PROJECT_DIR$/CNN_utils/ResizeImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/User_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <marker date="1518651431811" expanded="true" signature="346:376" ph="DROP TABLE I... " />
+            <marker date="1518651431811" expanded="true" signature="409:611" ph="CREATE TABLE... user_form" />
+            <marker date="1518651431811" expanded="true" signature="759:884" ph="INSERT INTO user_form... " />
+            <marker date="1518651431811" expanded="true" signature="1038:1110" ph="SELECT passw... user_form" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/c@163.com_8.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/c@163.com_5.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/c@163.com_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/c@163.com_9.jpg" />
+    <entry file="file://$PROJECT_DIR$/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Database/Records_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <marker date="1519083816849" expanded="true" signature="302:330" ph="DROP TABLE I... " />
+            <marker date="1519083816849" expanded="true" signature="363:718" ph="CREATE TABLE... records" />
+            <marker date="1519083816849" expanded="true" signature="866:950" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:958" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:999" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1074" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="866:1142" ph="INSERT INTO records... " />
+            <marker date="1519083816849" expanded="true" signature="1298:1367" ph="SELECT user_... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1404" ph="SELECT * FRO... R" />
+            <marker date="1519083816849" expanded="true" signature="1390:1430" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1435" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1390:1451" ph="SELECT * FRO... records" />
+            <marker date="1519083816849" expanded="true" signature="1669:1737" ph="SELECT * FRO... records" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/testModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_Study/Practice/testBash/testbash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN_utils/RunCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
